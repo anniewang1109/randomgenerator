@@ -1,1 +1,1 @@
-# haikugenerator
+# randomgenerator
